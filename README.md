@@ -1,3 +1,5 @@
+![Github Banner](https://github.com/aman2282003/aman2282003/assets/131010086/92ee0da0-0d90-4377-8aa1-d857df65e48f)
+
 <h1 align="center">Hi 👋, I'm Amandeep Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align ="right" alt ="coding" width ="400" src ="./download.jpeg">
