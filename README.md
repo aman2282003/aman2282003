@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman2282003&label=Profile%20views&color=0e75b6&style=flat" alt="aman2282003" /> </p>
 
 - 🌱 I’m currently learning **React.**
--  👨‍💻 Portfolio:- [https://amanportfoliio.netlify.app/](https://amanportfoliio.netlify.app/)
+-  👨‍💻 Portfolio:- https://aman2282003.github.io/Portfolio/
 
 - 💬 Ask me about **Html css Javascript Python**
 
