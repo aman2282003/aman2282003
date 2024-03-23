@@ -24,7 +24,7 @@
 
 
 <br/>
-<h3 align="center">🎯 Skills 🎯</h3>
+<h2>🎯 Skills 🎯</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="35" alt="html5 logo"  />
@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="35" alt="npm logo"  />
 </div>
 
-<h3 align="center">💻 Tools 💻</h3>
+<h2>💻 Tools 💻</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="35" alt="vscode logo"  />
