@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman2282003&label=Profile%20views&color=0e75b6&style=flat" alt="aman2282003" /> </p>
 
-- 🌱 I’m currently learning **Backend devlopment.**
+- 🌱 I’m currently learning **ADVANCE DSA.**
 - 👨‍💻 Portfolio: [https://aman2282003.github.io/Portfolio/](https://aman2282003.github.io/Portfolio/)
-- 💬 Ask me about **Html css Javascript React.js**
+- 💬 Ask me about **MERN STACK**
 - 📫 How to reach me: amaninfo201415@gmail.com
 
 <h3 align="left">Connect with me:</h3>
