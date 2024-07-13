@@ -81,8 +81,8 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge" height="35" alt="slack logo"  />
 </div>
 
-
-
+## Leetcode Stats 📊:
+![Leetcode Stats](https://leetcard.jacoblin.cool/aman22_8?theme=unicorn)
 
 ## Github Stats 📊:
 
